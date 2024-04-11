@@ -44,7 +44,7 @@ So the **final diagram** before deletion would look something like:
 
 * ![image](https://github.com/Rahul-0108/namaste-javascript-notes/assets/53996840/0f890d55-a6dc-4f64-aeed-7b246c88a819)
 
-* Here even before the code is executed the variables and function is created
+* Here even before the code is executed the variables and function is created in memory creation phase.
 
 *  ![image](https://github.com/Rahul-0108/namaste-javascript-notes/assets/53996840/a3d537e9-c9f7-48df-a7a7-ebdf04f55494)
 
