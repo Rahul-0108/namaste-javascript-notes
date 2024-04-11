@@ -47,6 +47,8 @@ Outputs:
 
 * Finally GEC is deleted and also removed from call stack. Program ends.
 
+* Each execution context (global and local) have their own memory space and environment where they are running independently of each other.
+
 * reference:
 
 ![Execution Context Phase 1](/assets/function.jpg "Execution Context")
