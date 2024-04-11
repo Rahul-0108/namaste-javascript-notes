@@ -48,6 +48,11 @@ So the **final diagram** before deletion would look something like:
 
 *  ![image](https://github.com/Rahul-0108/namaste-javascript-notes/assets/53996840/a3d537e9-c9f7-48df-a7a7-ebdf04f55494)
 
+* Call stack: anonymous is the global execution context
+
+* ![image](https://github.com/Rahul-0108/namaste-javascript-notes/assets/53996840/829a95a7-b4dc-4750-bb41-dc15c4fcd71c)
+  
+
  
 
 <hr>
