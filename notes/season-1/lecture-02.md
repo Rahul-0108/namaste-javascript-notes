@@ -43,6 +43,11 @@ So the **final diagram** before deletion would look something like:
 * Whnever an execution context is created it is pushed into stack and when deleted it is moved out of stack.
 
 * ![image](https://github.com/Rahul-0108/namaste-javascript-notes/assets/53996840/0f890d55-a6dc-4f64-aeed-7b246c88a819)
+
+* Here even before the code is executed the variables and function is created
+
+*  ![image](https://github.com/Rahul-0108/namaste-javascript-notes/assets/53996840/a3d537e9-c9f7-48df-a7a7-ebdf04f55494)
+
  
 
 <hr>
