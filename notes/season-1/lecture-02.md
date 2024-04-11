@@ -40,6 +40,11 @@ So the **final diagram** before deletion would look something like:
 
 * Call Stack maintains the order of execution of execution contexts. It is also known as Program Stack, Control Stack, Runtime stack, Machine Stack, Execution context stack.
 
+* Whnever an execution context is created it is pushed into stack and when deleted it is moved out of stack.
+
+* ![image](https://github.com/Rahul-0108/namaste-javascript-notes/assets/53996840/0f890d55-a6dc-4f64-aeed-7b246c88a819)
+ 
+
 <hr>
 
 Watch Live On Youtube below:
