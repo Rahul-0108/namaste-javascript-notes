@@ -12,6 +12,7 @@
     ```
   It looks like let isn't hoisted, **but it is**, let's understand
   * Both a and b are actually initialized as *undefined* in hoisting stage. But var **b** is inside the storage space of GLOBAL, and **a** is in a separate memory object called script, where it can be accessed only after assigning some value to it first ie. one can access 'a' only if it is assigned. Thus, it throws error.
+![image](https://github.com/Rahul-0108/namaste-javascript-notes/assets/53996840/4ced890e-fa09-4ba3-a554-5cb00ebe819e)
 
 <br>
 
