@@ -1,6 +1,5 @@
 # Episode 8 : let & const in JS, Temporal Dead Zone
 
-* Hoisting means accessing a variable before initialization.
 * let and const declarations are hoisted. But its different from **var**
     ```js
     console.log(a); // ReferenceError: Cannot access 'a' before initialization
