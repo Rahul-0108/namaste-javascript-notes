@@ -23,7 +23,9 @@ console.log(getName); // f getName(){ console.log("Namaste JavaScript); }
 function getName(){
     console.log("Namaste JavaScript");
 }
+The above code wont execute after line 2 as it gets error
 ```
+
 
 * Now let's observe a different example and try to understand the output.
 ```js
