@@ -67,7 +67,7 @@ console.log(b); // Error, Not Defined
     ![Lexical Scope Explaination](/assets/lexical.jpg "Lexical Scope")
     ![Lexical Scope Explaination](/assets/lexical2.jpg "Lexical Scope")
 
-    Here, "Global" is local memory of Global exevution context
+    Here, "Global" is local memory of Global exevution context. b, c an this are local memory of a's execution context.
 
 <br>
 
