@@ -22,7 +22,7 @@
 
 * **Reference Error** are thrown when variables are in temporal dead zone.
 
-* **Syntax Error** doesn't even let us run single line of code.
+* **Syntax Error**:  doesn't even let us run single line of code.
 
     * ```js
         let a = 10;
