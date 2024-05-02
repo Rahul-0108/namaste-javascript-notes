@@ -73,7 +73,7 @@ console.log(b); // Error, Not Defined
 
 * **Lexical**: In hierarchy, In order. e.g, "c" function is lexically sitting inside "a" function. function "a" is lexically inside global scope.
 
-* Whenever an Execution Context is created, a Lexical environment(LE) is also created and is referenced in the local Execution Context(in memory space).
+* Whenever an Execution Context is created, a Lexical environment(LE) is also created(local memory + pointer referencing lex env of its parent)
 
 * The process of going one by one to parent and checking for values is called scope chain or Lexcial environment chain.
 
