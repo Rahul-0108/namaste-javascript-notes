@@ -31,7 +31,8 @@
         let a = 10;
         var a = 100; // this code also rejected upfront as SyntaxError. (can't use same name in same scope)
         ```
-      ![Uploading image.png…]()
+      ![image](https://github.com/Rahul-0108/namaste-javascript-notes/assets/53996840/25559060-0441-454b-a70a-8bb39d098b81)
+
 
 
 * **Let** is a stricter version of **var**. Now, **const** is even more stricter than **let**.
