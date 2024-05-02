@@ -12,6 +12,10 @@
 * In different engines, the name of global object changes. Window in browsers, but in nodeJS it is called something else. At global level, this === window.
 
 * Whenever an execution context(global or functional) is created, a this variable is created with it.
+* 
+* When js code runs, global execution is created and along with it a global memory is created by js engine.
+![image](https://github.com/Rahul-0108/namaste-javascript-notes/assets/53996840/8ca02365-f9e8-43f7-a121-fa99f1e995f5)
+ 
 
 * If we create any variable in the global scope, then the variables get attached to the global object.
 
@@ -22,6 +26,8 @@ console.log(x); // 10
 console.log(this.x); // 10
 console.log(window.x); // 10
 ```
+![image](https://github.com/Rahul-0108/namaste-javascript-notes/assets/53996840/6aa59b95-b0d5-4354-ac42-be026443e5e8)
+
 
 <hr>
 
