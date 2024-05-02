@@ -13,7 +13,7 @@
 
 * Whenever an execution context(global or functional) is created, a this variable is created with it.
 * 
-* When js code runs, global execution is created and along with it a global memory is created by js engine.
+* When js code runs, global execution is created and along with it a global memory(window object) is created by js engine.
 ![image](https://github.com/Rahul-0108/namaste-javascript-notes/assets/53996840/8ca02365-f9e8-43f7-a121-fa99f1e995f5)
  
 
