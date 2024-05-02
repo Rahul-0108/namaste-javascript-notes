@@ -67,6 +67,8 @@ console.log(b); // Error, Not Defined
     ![Lexical Scope Explaination](/assets/lexical.jpg "Lexical Scope")
     ![Lexical Scope Explaination](/assets/lexical2.jpg "Lexical Scope")
 
+    Here, "Global" is local memory of Global exevution context
+
 <br>
 
 * So, **Lexical Environment** = local memory + lexical env of its parent. Hence, Lexical Environement is the local memory along with the lexical environment of its parent
