@@ -86,7 +86,9 @@ What is **Illegal Shadowing**?
     }
     // Uncaught SyntaxError: Identifier 'a' has already been declared
     ```
-    * We cannot shadow let with var. But it is **valid** to shadow a let using a let. However, we can shadow var with let.
+    * We cannot shadow let with var. But it is **valid** to shadow a let using a let.  we can also shadow var with let.
+    ![image](https://github.com/Rahul-0108/namaste-javascript-notes/assets/53996840/d02a940c-8954-453d-bd63-544abe628963)
+
     * All scope rules that work in function are same in arrow functions too.
     * Since var is function scoped, it is not a problem with the code below.
         ```js
