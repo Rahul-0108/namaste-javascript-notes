@@ -12,7 +12,7 @@ What is a **Block**?
     }
     ```
 
-* The group is used as a single statement.e.g, here with "if", a lock is used.
+* The group is used as a single statement.e.g, here with "if", a block is used.
 * ![image](https://github.com/Rahul-0108/namaste-javascript-notes/assets/53996840/16b24a8b-b6bb-4799-9b28-18b704e5d472)
    
 
