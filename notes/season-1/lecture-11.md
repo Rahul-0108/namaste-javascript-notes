@@ -65,6 +65,8 @@
         }
         x();
         ```
+        ![image](https://github.com/Rahul-0108/namaste-javascript-notes/assets/53996840/ef96d249-faeb-494b-9df6-31967d2e1e5a)
+
  
 <hr>
 
