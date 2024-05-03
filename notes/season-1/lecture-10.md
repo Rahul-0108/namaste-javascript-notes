@@ -15,7 +15,8 @@
     console.log(z);  // value of z is entire code of function y.
     ```
     * In above code, When y is returned, not only is the function returned but the entire closure (fun y + its lexical scope) is returned and put inside z. So when z is used somewhere else in program, it still remembers var a inside x()
-     ![image](https://github.com/Rahul-0108/namaste-javascript-notes/assets/53996840/4b35f12d-4cf0-4a71-83e7-c18701f92d9e)
+    ![image](https://github.com/Rahul-0108/namaste-javascript-notes/assets/53996840/fdc9a687-d209-4e24-957d-350a69d834b4)
+
 
 
 * Another Example
