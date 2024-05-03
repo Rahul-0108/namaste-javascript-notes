@@ -98,6 +98,9 @@ What is **Illegal Shadowing**?
         }
         ```
 
+     * Here also lexical scoping pattern is followed, i.e, going one by one to parent and checking for values.         
+       ![image](https://github.com/Rahul-0108/namaste-javascript-notes/assets/53996840/7b986c51-3471-47ea-8888-1465282fbc81)
+
 
 
 
