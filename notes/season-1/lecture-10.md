@@ -12,7 +12,7 @@
         return y;
     }
     var z = x();
-    console.log(z);  // value of z is entire code of function y.
+    console.log(z);  // value of z is entire code of function y. // prints 7
     ```
     * In above code, When y is returned, not only is the function returned but the entire closure (fun y + its lexical scope) is returned and put inside z. So when z is used somewhere else in program, it still remembers var a inside x()
     ![image](https://github.com/Rahul-0108/namaste-javascript-notes/assets/53996840/fdc9a687-d209-4e24-957d-350a69d834b4)
