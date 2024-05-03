@@ -31,6 +31,9 @@ What is a **Block**?
         * While, a is stored inside a GLOBAL scope. 
 
         * Thus we say, *let* and *const* are BLOCK SCOPED. They are stored in a separate mem space which is reserved for this block. Also, they can't be accessed outside this block. But var a can be accessed anywhere as it is in global scope. Thus, we can't access them outside the Block.
+     
+![image](https://github.com/Rahul-0108/namaste-javascript-notes/assets/53996840/58fcebcb-2c84-47e5-8395-0c1b0b6c293e)
+ 
 
 What is **Shadowing**?
 
