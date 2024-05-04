@@ -8,6 +8,9 @@
 
 * Browser can execute javascript code because it has the Javascript Runtime Environment. Node.js has also JRE.
 
+ ![image](https://github.com/Rahul-0108/namaste-javascript-notes/assets/53996840/19514043-ba44-424a-abc5-d4a2bd9ad773)
+
+
 * ECMAScript is a governing body of JS. It has set of rules which are followed by all JS engines like Chakra(Edge), Spidermonkey(Firefox)(first javascript engine created by JS creator himself), v8(Chrome)
 
 * Javascript Engine is not a machine. Its software written in low level languages (eg. C++) that takes in hi-level code in JS and spits out low level machine code.
