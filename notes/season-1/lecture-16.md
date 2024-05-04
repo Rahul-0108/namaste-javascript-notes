@@ -6,7 +6,7 @@
 
 * JRE consists of a JS Engine (❤️ of JRE), set of APIs to connect with outside environment, event loop, Callback queue, Microtask queue etc.
 
-* Browser can execute javascript code because it has the Javascript Runtime Environment. 
+* Browser can execute javascript code because it has the Javascript Runtime Environment. Node.js has also JRE.
 
 * ECMAScript is a governing body of JS. It has set of rules which are followed by all JS engines like Chakra(Edge), Spidermonkey(Firefox)(first javascript engine created by JS creator himself), v8(Chrome)
 
