@@ -55,6 +55,8 @@ var b = function xyz() {
 b(); // "b called"
 xyz(); // Throws ReferenceError:xyz is not defined.
 // xyz function is not created in global scope. So it can't be called.
+![image](https://github.com/Rahul-0108/namaste-javascript-notes/assets/53996840/1786aab6-fbb8-430f-813a-1bac5843c884)
+
 ```
 
 ### Q: Parameters vs Arguments?
