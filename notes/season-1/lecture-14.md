@@ -83,9 +83,9 @@ setTimeout(function () {
         ```
         ![Event Listerner Demo](/assets/event.jpg)
 
-### Garbage Collection and removeEventListeners
+### Garbage Collection and removeEventListeners: why we should remove event listners ??
 
-* Event listeners are heavy as they form closures. So even when call stack is empty, EventListener won't free up memory allocated to count as it doesn't know when it may need count again. So we remove event listeners when we don't need them (garbage collected) onClick, onHover, onScroll all in a page can slow it down heavily.
+* Event listeners are heavy as they form closures. So even when call stack is empty, EventListener won't free up memory allocated to count as it doesn't know when it may need count again. So we remove event listeners when we don't need them (so all the variables which is held by the closure will be garbage collected).
 
 <hr>
 
