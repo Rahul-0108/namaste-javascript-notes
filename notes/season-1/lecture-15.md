@@ -2,7 +2,7 @@
 
 > Note: Call stack will execeute any execeution context which enters it. Time, tide and JS waits for none. TLDR; Call stack has no timer.
 
-* Browser has JS Engine which has Call Stack which has Global execution context, local execution context etc.
+* Browser has JS Engine which has Call Stack where our programs runs putting Global execution context, local execution context etc.
   * But browser has many other superpowers - Local storage space, Timer, place to enter URL, Bluetooth access, Geolocation access and so on.
   * Now JS needs some way to connect the callstack with all these superpowers. This is done using Web APIs.
   ![Event Loop 1 Demo](/assets/eventloop1.jpg)
