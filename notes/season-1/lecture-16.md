@@ -10,6 +10,8 @@
 
  ![image](https://github.com/Rahul-0108/namaste-javascript-notes/assets/53996840/19514043-ba44-424a-abc5-d4a2bd9ad773)
 
+* Suppose we want to run js code inside water cooler, we need in it JRE. Inside JRE, we will have JS Engine, API(getWaterLevel(just like localstorage api of browser) to get watere level from water cooler which can be accessed using a global object inside js code).
+
 
 * ECMAScript is a governing body of JS. It has set of rules which are followed by all JS engines like Chakra(Edge), Spidermonkey(Firefox)(first javascript engine created by JS creator himself), v8(Chrome)
 
