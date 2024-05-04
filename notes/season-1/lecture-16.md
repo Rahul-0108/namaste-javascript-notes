@@ -12,6 +12,8 @@
 
 * Suppose we want to run js code inside water cooler, we need in it JRE. Inside JRE, we will have JS Engine, API(like getWaterLevel(just like localstorage api of browser) to get watere level from water cooler(superpower) which can be accessed using a global object inside js code).
 
+* Browser and Node.js JREs have implemented their own apis differently though their names can be same like console.log, setTimeout. APIs help to access outer environment of devices.
+
 
 * ECMAScript is a governing body of JS. It has set of rules which are followed by all JS engines like Chakra(Edge), Spidermonkey(Firefox)(first javascript engine created by JS creator himself), v8(Chrome)
 
