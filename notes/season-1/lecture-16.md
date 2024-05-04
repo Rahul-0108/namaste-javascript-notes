@@ -29,7 +29,7 @@
     GiF Demo
     ![JS Engine Demo](/assets/jsenginegif.gif)
 
-* Companies use different JS engines and each try to make theirs the best.
+* Companies use different JS engines and each try to make theirs the best and optimized the code most to be as fast as possible.
     * v8 of Google has Interpreter called Ignition, a compiler called Turbo Fan and garbage collector called Orinoco
     * v8 architecture:
     ![JS Engine Demo](/assets/jsengine.png)
