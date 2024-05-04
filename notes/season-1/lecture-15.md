@@ -9,7 +9,7 @@
 
 
 ### WebAPIs
-None of the below are part of Javascript! These are extra superpowers that browser has. Browser gives access to JS callstack to use these powers.
+None of the below are part of Javascript! These are extra superpowers that browser has. Browser gives access to JS callstack to use these powers.e.g , setTimeout is not part of js, instead it is a part of browser.
 ![Event Loop 2 Demo](/assets/eventloop2.jpg)
 
 * setTimeout(), DOM APIs, fetch(), localstorage, console (yes, even console.log is not JS!!), location and so many more.
