@@ -4,7 +4,7 @@
 
 * JRE is like a big container which has everything which are required to run Javascript code.
 
-* JRE consists of a JS Engine (❤️ of JRE), set of APIs to connect with outside environment, event loop, Callback queue, Microtask queue etc.
+* JRE consists of a JS Engine (❤️ of JRE) where our code runs, set of APIs to connect with outside environment, event loop, Callback queue, Microtask queue etc.
 
 * Browser can execute javascript code because it has the Javascript Runtime Environment. Node.js has also JRE.
 
