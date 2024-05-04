@@ -20,6 +20,7 @@ None of the below are part of Javascript! These are extra superpowers that brows
 * We get all these inside call stack through global object ie. window
     * Use window keyword like : window.setTimeout(), window.localstorage, window.console.log() to log something inside console.
     * As window is global obj, and all the above functions are present in global object, we don't explicity write window but it is implied.
+    * Suppose we want to use superpower of timer inside our js code , we have to use window.setTimeout.
 
 * Let's undertand the below code image and its explaination:
     ![Event Loop 3 Demo](/assets/eventloop3.jpg)
