@@ -25,6 +25,8 @@ setTimeout(function () {
   ```
   * setTimeout will store the callback func in a separate space for 5 secs.
   * In the call stack, first x and y are present. After code execution, they go away and stack is empty. Then after 5 seconds (from beginning) anonymous suddenly appear up in stack ie. setTimeout
+  ![image](https://github.com/Rahul-0108/namaste-javascript-notes/assets/53996840/7131ff6b-4dff-45d4-a90b-1c363c7c2ee9)
+
   * All 3 functions are executed through call stack. If any operation blocks the call stack, its called blocking the main thread.
   * Say if x() takes 30 sec to run, then JS has to wait for it to finish as it has only 1 call stack/1 main thread. Never block main thread.
   * Always use **async** for functions that take time eg. setTimeout
