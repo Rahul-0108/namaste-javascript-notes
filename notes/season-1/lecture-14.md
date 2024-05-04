@@ -32,6 +32,8 @@ setTimeout(function () {
   * Always use **async** for functions that take time.
   * If js did not have 1st class functions, callback func and we could not have pass one func to another function, we 
   could not do asynchronous operations. using the wep apis, settimeout, callback function, we can achieve asynchrous operations.
+![image](https://github.com/Rahul-0108/namaste-javascript-notes/assets/53996840/28e6a6bd-c12e-42a8-b643-3cc061117431)
+
 
 * ```js
   // Another Example of callback
