@@ -15,7 +15,7 @@
 * Browser and Node.js JREs have implemented their own apis differently though their names can be same like console.log, setTimeout. APIs help to access outer environment of devices.
 
 
-* ECMAScript is a governing body of JS. It has set of rules which are followed by all JS engines like Chakra(Edge), Spidermonkey(Firefox)(first javascript engine created by JS creator himself), v8(Chrome)
+* ECMAScript is a governing body of JS. It has set of rules which are followed by all JS engines like Chakra(Edge), Spidermonkey(Firefox)(first javascript engine created by JS creator himself), v8(Chrome). We can also create our own Js Engine. We need to make sure We follow all ECMAScript standards.
 
 * Javascript Engine is not a machine. Its software written in low level languages (eg. C++) that takes in hi-level code in JS and spits out low level machine code.
 
