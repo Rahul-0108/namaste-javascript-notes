@@ -29,7 +29,7 @@ setTimeout(function () {
 
   * All 3 functions are executed through call stack. If any operation blocks the call stack, its called blocking the main thread. Anythig that is executed in our page is executed through call stack.
   * Say if x() takes 30 sec to run, then JS has to wait for it to finish as it has only 1 call stack/1 main thread. Never block main thread.
-  * Always use **async** for functions that take time eg.
+  * Always use **async** for functions that take time.
 
 * ```js
   // Another Example of callback
