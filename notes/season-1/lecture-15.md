@@ -63,7 +63,7 @@ Explaination?
   // In above code, even after console prints "Start" and "End" and pops GEC out, the eventListener stays in webapi env(with hope that user may click it some day) until explicitly removed, or the browser is closed.
   ```
 
-* Eventloop has just one job to keep checking callback queue and if found something push it to call stack and delete from callback queue.
+* Eventloop has just one job to keep checking callback queue and if found something push it to call stack(if empty) and delete from callback queue.
 
 Q: Need of callback queue?
 
