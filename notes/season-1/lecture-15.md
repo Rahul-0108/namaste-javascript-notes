@@ -5,7 +5,8 @@
 * Browser has JS Engine which has Call Stack where our programs runs putting Global execution context, local execution context etc.
   * But browser has many other superpowers - Local storage space, Timer, place to enter URL, Bluetooth access, Geolocation access and so on.
   * Now JS needs some way to connect the callstack with all these superpowers. This is done using Web APIs.
-  ![Event Loop 1 Demo](/assets/eventloop1.jpg)
+  ![image](https://github.com/Rahul-0108/namaste-javascript-notes/assets/53996840/783bc2db-cac1-48b5-96e8-e6e3dc93ff20)
+
 
 ### WebAPIs
 None of the below are part of Javascript! These are extra superpowers that browser has. Browser gives access to JS callstack to use these powers.
