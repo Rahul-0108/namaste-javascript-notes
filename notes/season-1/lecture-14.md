@@ -53,7 +53,7 @@ setTimeout(function () {
   printAll() // A B C // in order
   ```
 ### Event Listener
-* We will create a button in html and attach event to it.
+* We will create a button in html and attach event to it. Event listners are also stored somewhere else and and when event happens it is bring into the call stack for execution.
   ```js
   // index.html
     <button id="clickMe">Click Me!</button>
