@@ -82,7 +82,8 @@ setTimeout(function () {
         attachEventList();
         ```
         ![Event Listerner Demo](/assets/event.jpg)
-        ![image](https://github.com/Rahul-0108/namaste-javascript-notes/assets/53996840/fa7d2d7d-5a6c-4631-9ee2- e4bbc8798c1c)
+      ![image](https://github.com/Rahul-0108/namaste-javascript-notes/assets/53996840/aa89c41b-7194-41a4-8901-4d3e670d4395)
+
 
 
 ### Garbage Collection and removeEventListeners: why we should remove event listners ??
