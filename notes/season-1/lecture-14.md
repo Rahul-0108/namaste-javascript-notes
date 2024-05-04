@@ -88,7 +88,7 @@ setTimeout(function () {
 
 ### Garbage Collection and removeEventListeners: why we should remove event listners ??
 
-* Event listeners are heavy as they form closures. So even when call stack is empty, EventListener won't free up memory allocated to count as it doesn't know when it may need count again. So we remove event listeners when we don't need them (so all the variables which is held by the closure will be garbage collected).
+* Event listeners are heavy as they form closures. So even when call stack is empty, EventListener won't free up memory allocated to count as it doesn't know when it may need count again. So we remove event listeners when we don't need them (so all the variables which is held by the closure will be garbage collected). Event listeners consume a lot of memory due to closure which can potentially slow down the website therefore it is good practice to remove if it is not used.
 
 <hr>
 
