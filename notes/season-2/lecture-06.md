@@ -32,11 +32,11 @@ x();
 
 💡 So to summarize, the value of `this` keyword inside function is `undefined`, but because of `this substitution` in non-strict mode `this` keyword refers to `globalWindowObject` and in strict mode it will still be `undefined`
 
-`this` keyword value depends on how the `function` is called. For eg:  
+`this` keyword value also depends on how the `function` is called. For eg:  
 In strict mode:  
 ```js
-x(); // undefined  
-window.x(); // global window object
+x(); // this valie is undefined in function x  
+window.x(); // this valie is  global window object in function x  
 ```
 
 ## `this` inside a object's method
