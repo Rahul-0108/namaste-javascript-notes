@@ -95,6 +95,8 @@ console.log(user); // Promise {<Pending>}
  * Once fulfilled data is there in promiseResult and it is inside body in ReadableStream format and there is a way to extract data.
  */
 ```
+![image](https://github.com/Rahul-0108/namaste-javascript-notes/assets/53996840/8d346e5d-7ad1-4585-a4c6-c6281982b067)
+
 
 Now we can attach callback to above response?
 
