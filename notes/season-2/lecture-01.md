@@ -39,7 +39,7 @@ console.log("Season 2");
 
 ### 🛒 e-Commerce web app situation
 
-Assume a scenario of e-Commerce web, where one user is placing order, he has added items like, shoes, pants and kurta in cart and now he is placing order. So in backend the situation could look something like this.
+Assume a scenario of e-Commerce web, where one user is placing order, he has added items like, shoes, pants and kurta in cart and now he is placing order. So call to backend the situation could look something like this.
 
 ```js
 const cart = ["shoes", "pants", "kurta"];
