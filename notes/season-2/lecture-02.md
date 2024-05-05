@@ -122,9 +122,6 @@ user.then(function (data) {
  */
 ```
 
-💡Promise Object are immutable.  
--> Once promise is fulfilled and we have data we can pass here and there and we don't have to worry that someone can mutate that data. So over above we can't directly mutate `user` promise object, we will have to use `.then`
-
 ### Interview Guide
 
 💡What is Promise?  
