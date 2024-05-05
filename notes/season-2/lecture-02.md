@@ -30,7 +30,7 @@ Promise is nothing but we can assume it to be empty object with some data value 
 
 Since `createOrder` function is an async function and we don't know how much time will it take to finish execution.
 
-So the moment `createOrder` will get executed, it will return you a `undefined` value. Let's say after 5 secs execution finished so now `orderId` is ready so, it will fill the `undefined` value with the `orderId`.
+So the moment `createOrder` will get executed, it will return you a promise with `undefined` value. Let's say after 5 secs execution finished so now `orderId` is ready so, it will fill the `undefined` value with the `orderId`.
 
 In short, When `createOrder` get executed, it immediately returns a `promise object` with `undefined` value. then javascript will continue to execute with other lines of code. After sometime when `createOrder` has finished execution and `orderId` is ready then that will `automatically` be assigned to our returned `promise` which was earlier `undefined`.
 
