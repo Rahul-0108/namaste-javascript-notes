@@ -81,7 +81,7 @@ student.printName.call(student2); // Kajal
 
 ## `this` inside arrow function
 
-Arrow function doesn't have their own `this` value, they take the value from enclosing lexical context.
+Arrow function doesn't have their own `this` value, they take/retain the value of the enclosing lexical context.
 
 ```js
 const obj = {
