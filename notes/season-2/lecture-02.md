@@ -96,6 +96,8 @@ console.log(user); // Promise {<Pending>}
  */
 ```
 ![image](https://github.com/Rahul-0108/namaste-javascript-notes/assets/53996840/8d346e5d-7ad1-4585-a4c6-c6281982b067)
+![image](https://github.com/Rahul-0108/namaste-javascript-notes/assets/53996840/d718c906-45fb-4644-8d58-982370961d32)
+
 
 
 Now we can attach callback to above response?
