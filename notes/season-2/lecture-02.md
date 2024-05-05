@@ -60,7 +60,7 @@ But with promise, we are attaching a callback function to a promiseObject.
 
 There is difference between these words, passing a function and attaching a function.
 
-Promise guarantee, it will callback the attached function once it has the fulfilled data. And it will call it only once. Just once.
+Promise guarantee, it will callback the attached function once it has the fulfilled data. And it will call it only once. Just once. And in promise we are not passing our callback func to external function.
 
 Earlier we talked about promise are object with empty data but that's not entirely true, `Promise` are much more than that.
 
