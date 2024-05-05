@@ -155,6 +155,7 @@ async function handlePromise() {
 }
 handlePromise(); 
 // 📌 `Hi` printed instantly -> now code will wait for 2 secs -> After 2 secs ('Hello There!' 'Promise resolved value by p2!!') will get printed and in the subsequent second i.e. after 3 secs ('Hello There! 2' 'Promise resolved value!!') will get printed
+if p2 was have 3000 ms timer, then p1 will be immediately printed as it would already been resolved by the time control comes to line of const val2 = await p;
 ```
 
 Q: Question is Is program actually waiting or what is happening behind the scene?  
