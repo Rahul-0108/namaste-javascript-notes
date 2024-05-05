@@ -9,7 +9,7 @@ Anything defined globally is said to be in a global space.
 
 ```js
 console.log(this); // refers to global object i.e. window in case of browser
-// 💡 global object differs based on runtime environment,
+// 💡 global object differs based on runtime environment,e.g node.js
 ```
 
 ## `this` inside a function
