@@ -184,7 +184,7 @@ createOrder(cart)
     // this block is responsible for code block above it.
     console.log(err);
   });
-  .then(function (orderId) {
+  .then(function (orderId) { // this will be caled even after catch above it catches error
     // Promise chaining
     // 💡 we will make sure that `proceedToPayment` returns a promise too
     return proceedToPayment(orderId);
